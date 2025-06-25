@@ -1,6 +1,6 @@
 # Simulation Notebook
 
-This repository contains a single Jupyter Notebook titled **`sim.ipynb`**, which performs simulations related to the 2025 CSE3000 Research project code.
+This repository contains a single Jupyter Notebook titled **`sim.ipynb`**, which performs simulations related to the 2025 CSE3000 TU Delft Research project code.
 
 ## Contents
 
